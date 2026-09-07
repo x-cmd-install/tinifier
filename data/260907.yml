@@ -5,7 +5,7 @@ about:
   head: 9730293
   archived: false
   latestVersion: "v5.1.3"
-  collectedAt: 2026-09-07T04:33:45Z
+  collectedAt: 2026-09-07T19:54:58Z
 timeline:
   created: 2019-10-09
   lastCommit: 2026-09-01
@@ -31,7 +31,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 1
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 1
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 4
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 2
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 8
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 3
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 17
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 7
@@ -81,7 +81,7 @@ total:
   commit: 280
 ---
 path: /home/runner/.x-repo/github.com/tarampampam/tinifier
-collectedAt: 2026-09-07T04:33:51Z
+collectedAt: 2026-09-07T19:55:01Z
 loc:
   Go:
     code: 8830
@@ -236,7 +236,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:52+00:00
+  collectedAt: 2026-09-07T19:55:02+00:00
   platform:
     darwin/arm64:
       name:  tinifier-darwin-arm64.tar.gz
