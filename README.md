@@ -12,6 +12,28 @@
 x install tinifier
 ```
 
+## Code insight
+
+Total: **8,874** lines of code across **53** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 8,830 | 1,253 | 2,284 | 48 |
+| Dockerfile | 34 | 10 | 11 | 1 |
+| Html | 7 | 0 | 1 | 1 |
+| Yaml | 3 | 17 | 1 | 1 |
+| Markdown | 0 | 156 | 68 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/20 approved changesets -- score normalized to 0
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/tarampampam/tinifier>
@@ -23,6 +45,25 @@ x install tinifier
 - **Latest**: `v5.1.3` (2026-09-01)
 - **Last commit**: 2026-09-01
 - **Assets in release**: 32
+
+## Popularity
+
+- **Stars**: 116 · **Forks**: 11 · **Open issues**: 13 · **Contributors**: 6
+
+## Totals (cumulative)
+
+- **Releases**: 26 · **Merged PRs**: 166 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 280
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-12 | 1 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-12 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-14 | 2 | 7 | 0 | 1 | 1 | 8 |
+| 360d | 2025-09-15 | 3 | 11 | 0 | 1 | 1 | 17 |
+| last720d | 2024-09-20 | 7 | 26 | 0 | 2 | 1 | 33 |
 
 ## Release assets
 
@@ -61,44 +102,6 @@ x install tinifier
 | [tinifier-windows-arm64.zip](https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-windows-arm64.zip) | 2.7 MiB | `native/win/arm64` |
 | [tinifier_v5.1.3_sources.tar.gz](https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier_v5.1.3_sources.tar.gz) | 342.5 KiB | `native/unknown` |
 
-## Popularity
-
-- **Stars**: 116 · **Forks**: 11 · **Open issues**: 13 · **Contributors**: 6
-
-## Totals (cumulative)
-
-- **Releases**: 26 · **Merged PRs**: 166 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 280
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-12 | 1 | 4 | 0 | 0 | 0 | 4 |
-| 360d | 2025-09-15 | 3 | 11 | 0 | 1 | 1 | 17 |
-
-## Code size
-
-Total: **8,874** lines of code across **53** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 8,830 | 1,253 | 2,284 | 48 |
-| Dockerfile | 34 | 10 | 11 | 1 |
-| Html | 7 | 0 | 1 | 1 |
-| Yaml | 3 | 17 | 1 | 1 |
-| Markdown | 0 | 156 | 68 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/20 approved changesets -- score normalized to 0
-- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Improve this data
 
 Install metadata for tinifier lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tinifier` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +111,4 @@ Install metadata for tinifier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:45:11Z._
