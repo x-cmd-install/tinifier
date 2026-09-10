@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6963378,
       "digest": "sha256:710468944847d0d208119611e555c428bc8c8f2fb6646b9ee0dcb5b51520f732",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-01T09:38:12Z",
       "updated_at": "2026-09-01T09:38:12Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-darwin-arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 3147824,
       "digest": "sha256:6fceff18046ab789a185d35c814f474d08a8f95d192ac5a88afa41f3c90246ba",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-01T09:38:13Z",
       "updated_at": "2026-09-01T09:38:14Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3063066,
       "digest": "sha256:41bdebdf261bf4ee28da7aeedb05232337c0541b59b780c1f90fe3addec38825",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:15Z",
       "updated_at": "2026-09-01T09:38:15Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-arm.deb"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 2837533,
       "digest": "sha256:55a04c7996ea0eb62b4f2a58d4db47d7dc7aa2adde8b13e1a05be8c24e624678",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-01T09:38:10Z",
       "updated_at": "2026-09-01T09:38:10Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-arm64.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 7588352,
       "digest": "sha256:05baece66114354a8b880781ef173cff652e4101143b540a93845b20faa043e5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:11Z",
       "updated_at": "2026-09-01T09:38:11Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-windows-amd64.exe"
