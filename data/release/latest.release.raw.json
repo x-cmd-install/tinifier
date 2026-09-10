@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7556944,
       "digest": "sha256:94e67f107a152f61d2a1e8e54e93b5202989189c59520ba72d2a2593b7283a30",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-01T09:38:11Z",
       "updated_at": "2026-09-01T09:38:12Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3203559,
       "digest": "sha256:18a8f503ba706a015e2e6b77f15db7ae064ca2aa91bd5483b354d6bbfcdd86a5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:11Z",
       "updated_at": "2026-09-01T09:38:12Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-darwin-amd64.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6963378,
       "digest": "sha256:710468944847d0d208119611e555c428bc8c8f2fb6646b9ee0dcb5b51520f732",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-01T09:38:12Z",
       "updated_at": "2026-09-01T09:38:12Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-darwin-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2948350,
       "digest": "sha256:c306e21a8b4561ed33b0dd12621c2c57da6fd5c6ba0d578d1bc40196aba57690",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-01T09:38:12Z",
       "updated_at": "2026-09-01T09:38:12Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-darwin-arm64.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7385248,
       "digest": "sha256:5d1ca6e9bf3747847e6f054090728a9e18c2bc0ad57a1395b33fc8e3df871088",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-01T09:38:10Z",
       "updated_at": "2026-09-01T09:38:10Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3148042,
       "digest": "sha256:3981adb1482e13a9daa6aec49e14fa860eafadd1949657e54ba9e6b334d42c9a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-01T09:38:15Z",
       "updated_at": "2026-09-01T09:38:15Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3148032,
       "digest": "sha256:c67bf473978d31a61f2135164c62ccf632387f69d9c1218fecf7860b79fc3c53",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-01T09:38:11Z",
       "updated_at": "2026-09-01T09:38:11Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-amd64.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3176442,
       "digest": "sha256:fd4e0838685a4231e59aa91fce538d0e5255389bd0c6b7f5fda78b46c0c7cb5f",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-01T09:38:15Z",
       "updated_at": "2026-09-01T09:38:15Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-amd64.pkg.tar.zst"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3149492,
       "digest": "sha256:16b173b3798ba7732920114d02694a85e85b8396a21c7e175888d9098532ed3b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-01T09:38:16Z",
       "updated_at": "2026-09-01T09:38:16Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-amd64.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 3147824,
       "digest": "sha256:6fceff18046ab789a185d35c814f474d08a8f95d192ac5a88afa41f3c90246ba",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-01T09:38:13Z",
       "updated_at": "2026-09-01T09:38:14Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7274656,
       "digest": "sha256:a9b49c41ce05e4faf19e54ad547151e4b4d9bacedcd227b8dd6b6c3e88ae5785",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:10Z",
       "updated_at": "2026-09-01T09:38:10Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-arm"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 3065927,
       "digest": "sha256:d64386a664aa8ca915438301bd7635f13ae23cd9ba93118653a7cbfc4cfa5aa3",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:11Z",
       "updated_at": "2026-09-01T09:38:11Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-arm.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 6815904,
       "digest": "sha256:c6c37d3f37d652140bd096bbb9e528141aa9633c1d43aa9f12318b3374d67967",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:10Z",
       "updated_at": "2026-09-01T09:38:10Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-arm64"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 2837533,
       "digest": "sha256:55a04c7996ea0eb62b4f2a58d4db47d7dc7aa2adde8b13e1a05be8c24e624678",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:10Z",
       "updated_at": "2026-09-01T09:38:10Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-arm64.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 2840841,
       "digest": "sha256:888977df684e3840f531ca21bb1b408767512188207116aa8ac1a46c01ec299a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-01T09:38:15Z",
       "updated_at": "2026-09-01T09:38:16Z",
       "browser_download_url": "https://github.com/tarampampam/tinifier/releases/download/v5.1.3/tinifier-linux-arm64.pkg.tar.zst"
