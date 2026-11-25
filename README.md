@@ -24,6 +24,16 @@ Total: **8,874** lines of code across **53** files in the top 5 languages.
 | Yaml | 3 | 17 | 1 | 1 |
 | Markdown | 0 | 156 | 68 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.1 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (2/10) — 2 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 2
+- **Code-Review** (0/10) — Found 1/20 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/tarampampam/tinifier>
@@ -48,12 +58,12 @@ Total: **8,874** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 1 | 0 | 0 | 0 | 1 | 2 |
-| last180d | 2026-05-28 | 1 | 5 | 0 | 0 | 1 | 4 |
-| 360d | 2025-11-29 | 2 | 10 | 0 | 1 | 2 | 14 |
-| last720d | 2024-12-04 | 7 | 22 | 0 | 2 | 2 | 27 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-27 | 1 | 0 | 0 | 0 | 1 | 2 |
+| last180d | 2026-05-29 | 1 | 5 | 0 | 0 | 1 | 4 |
+| 360d | 2025-11-30 | 2 | 10 | 0 | 1 | 2 | 14 |
+| last720d | 2024-12-05 | 7 | 22 | 0 | 2 | 2 | 27 |
 
 ## Release assets
 
@@ -101,4 +111,4 @@ Install metadata for tinifier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:50:17Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:29:50Z._
